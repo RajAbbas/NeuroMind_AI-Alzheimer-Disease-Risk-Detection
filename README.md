@@ -43,7 +43,7 @@ Trained on the **TADPOLE (ADNI)** dataset, a gold-standard longitudinal study.
 | **Recall (Sick)** | **0.86** | Misses very few actual cases (High Sensitivity) |
 
 ### **Explainability (SHAP)**
-<img width="1460" height="994" alt="image" src="https://github.com/user-attachments/assets/559d432b-2b2f-4d73-8a52-7bafdd071e4c" />
+<img width="800" height="774" alt="image" src="https://github.com/user-attachments/assets/559d432b-2b2f-4d73-8a52-7bafdd071e4c" />
 *The model confirms that **Neurotoxic Ratio** and **Hippocampus Volume** are the top drivers of risk, validating the biological hypothesis.*
 
 ---
