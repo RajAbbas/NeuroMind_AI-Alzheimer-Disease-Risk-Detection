@@ -12,6 +12,9 @@
 
 It goes beyond simple prediction by integrating a **Generative AI Doctor** (Google Gemini) to explain the *biology* behind the risk score in plain English.
 
+<img width="3000" height="1484" alt="image" src="https://github.com/user-attachments/assets/68c15811-ecb9-4f2e-9278-6c948db2dd12" />
+
+
 ---
 ## 🚀 Live Demo
 Click here: [https://neuromindai-alzheimer-disease-risk-detection-4pktih6hk5k2yzmge.streamlit.app/]
