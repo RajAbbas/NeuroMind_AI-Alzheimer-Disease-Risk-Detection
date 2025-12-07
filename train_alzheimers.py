@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-# --- SETUP ---
+# --- SETUP --- 
 output_dir = "Alzheimers_Results"
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
