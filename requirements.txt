@@ -4,6 +4,6 @@ numpy
 xgboost
 shap
 matplotlib
-seaborn
 plotly
+google-generativeai
 scikit-learn
