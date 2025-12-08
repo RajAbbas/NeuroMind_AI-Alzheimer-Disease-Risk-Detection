@@ -65,7 +65,7 @@ Trained on the **TADPOLE (ADNI)** dataset, a gold-standard longitudinal study.
 ## 🛠️ Tech Stack
 * **Core Logic:** Python, Pandas, NumPy
 * **Machine Learning:** XGBoost (Gradient Boosting)
-* **Generative AI:** Google Gemini 2.0 Flash (via API)
+* **Generative AI:** Google Gemini 2.5 Flash (via API)
 * **Explainability:** SHAP (Shapley Values)
 * **Visualization:** Plotly (Interactive Charts), Matplotlib
 * **App Framework:** Streamlit
